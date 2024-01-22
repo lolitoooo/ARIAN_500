@@ -1,0 +1,8 @@
+# Fichiers
+.DS_Store
+.env
+
+# Dossiers
+node_modules/*
+constants/*
+config/*
