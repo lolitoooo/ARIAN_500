@@ -1,2 +1,2 @@
 **ARIAN-500**
-test push second remote
+test2 push second remote
