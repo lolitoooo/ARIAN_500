@@ -1,5 +1,4 @@
 module.exports = {
-    ignorePatterns: ['*.eslintsrc.js'],
     "env": {
         "browser": true,
         "es2021": true
@@ -28,4 +27,4 @@ module.exports = {
         // Utiliser des guillemets simples pour les chaînes de caractères
         "quotes": ["error", "double"]
     }
-};
+}
