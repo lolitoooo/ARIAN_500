@@ -11,6 +11,7 @@ function soustraire(a, b) {
 // Utilisation des fonctions définies ci-dessus
 const resultatAddition = additionner(5, 3);
 const resultatSoustraction = soustraire(10, 4);
+const test = soustraire(15, 4);
 
 // Affichage des résultats dans la console
 console.log("Résultat de l'addition :", resultatAddition);
