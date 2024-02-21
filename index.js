@@ -1,2 +1,5 @@
-const string = "Hello World";
-console.log(string);
+// const message = "Hello, world"
+// const printMessage = () => {
+//   console.log(message)
+// }
+// printMessage()
